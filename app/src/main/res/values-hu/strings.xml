@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+    <string name="app_name">BeadRK</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">kezdés</string>
+    <string name="stop">megállít</string>
+    <string name="info">infó</string>
+    <string name="your_name">Add meg a neved!</string>
+    <string name="starttxt">Kezdés!</string>
+    <string name="endtxt">Sikerült!</string>
+    <string name="greeting">Szia </string>
+    <string name="gorun">! Kezdjünk futni!</string>
+    <string name="grat">Gratulálok </string>
+    <string name="youdidit">! Lefutottad!</string>
+    <string name="highscore">Toplista</string>
+    <string name="did">Legjobb 5</string>
+    <string name="music">Zene</string>
+    </resources>
